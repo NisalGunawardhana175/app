@@ -65,7 +65,7 @@ if not st.session_state.logged_in:
         }
     </style>
     <div class="header-title">
-        <img src="https://static.thenounproject.com/png/2120315-200.png" alt="CEAT Logo">
+        <img src="https://theobald-software.com/wp-content/uploads/2018/03/Altria-Logo.png" alt="ALTRIA Logo">
         <h1>Dealer Performance Monitoring App</h1>
     </div>
     """, unsafe_allow_html=True)
@@ -125,7 +125,7 @@ else:
         }
     </style>
     <div class="header-title">
-        <img src="https://static.thenounproject.com/png/2120315-200.png" alt="CEAT Logo">
+        <img src="https://theobald-software.com/wp-content/uploads/2018/03/Altria-Logo.png" alt="ALTRIA Logo">
         <h1>Dealer Performance Monitoring App</h1>
     </div>
     """, unsafe_allow_html=True)
